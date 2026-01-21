@@ -154,9 +154,9 @@ An agent controlling a game character can:
 * Game characters responding dynamically
 
 
-[1]: https://huggingface.co/learn/agents-course/en/unit1/what-are-agents?utm_source=chatgpt.com "What is an Agent?"
+[1]: https://huggingface.co/learn/agents-course/en/unit1/what-are-agents "What is an Agent?"
 [2]: https://huggingface.co/learn/agents-course/unit1/what-are-agents "What is an Agent? - Hugging Face Agents Course"
-[3]: https://medium.com/%40alikhalaji/ai-agents-explained-simply-hugging-face-course-unit-1-recap-827a4954055c?utm_source=chatgpt.com "AI Agents Explained Simply: Hugging Face Course Unit 1 ..."
-[4]: https://huggingface.co/learn/agents-course/en/unit1/tools?utm_source=chatgpt.com "What are Tools? - Hugging Face Agents Course"
-[5]: https://huggingface.co/learn/agents-course/en/unit1/what-are-llms?utm_source=chatgpt.com "What are LLMs? - Hugging Face Agents Course"
-[6]: https://huggingface.co/docs/smolagents/en/conceptual_guides/intro_agents?utm_source=chatgpt.com "What are agents? - Hugging Face"
+[3]: https://medium.com/%40alikhalaji/ai-agents-explained-simply-hugging-face-course-unit-1-recap-827a4954055c "AI Agents Explained Simply: Hugging Face Course Unit 1 ..."
+[4]: https://huggingface.co/learn/agents-course/en/unit1/tools "What are Tools? - Hugging Face Agents Course"
+[5]: https://huggingface.co/learn/agents-course/en/unit1/what-are-llms "What are LLMs? - Hugging Face Agents Course"
+[6]: https://huggingface.co/docs/smolagents/en/conceptual_guides/intro_agents "What are agents? - Hugging Face"
